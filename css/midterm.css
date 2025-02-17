@@ -1,9 +1,5 @@
 body{
-  .vesper-libre-regular {
-    font-family: "Vesper Libre", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
+  font-family: "Vesper Libre";
   color: #1a1a1a;
   line-height: 1.5;
   margin: 0%;
@@ -43,7 +39,7 @@ h1{
 }
 
 figcaption, .news, .sub-title, .author-date, h2{
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: "Open Sans";
 }
 
 .author-date{
